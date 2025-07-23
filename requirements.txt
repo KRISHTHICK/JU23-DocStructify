@@ -3,3 +3,5 @@ PyMuPDF
 pdfplumber
 pandas
 Pillow
+
+pip install streamlit PyMuPDF pdfplumber pandas pillow
